@@ -1,7 +1,6 @@
 # BackChaining
-Backchainng to solve logical entailment issues 
+Backchaining to solve logical entailment issues 
 
+To populate the knowledgebase, either input the rule set through 'RuleSet.txt' or uncomment 'sys.argv[]' to enter a file. 
 
-Either feed it a rule set through the 'RuleSet.txt' file or uncomment out the sys.argv[] line of code to enter your own files. 
-
-Take a rule set for propositional logic and enter a comand line querie to test if the query is part of the rule set. 
+Take a rule set for propositional logic and enter a command line query to test if the query is part of the rule set. 
